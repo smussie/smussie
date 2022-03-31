@@ -1,4 +1,10 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://live.staticflickr.com/2938/14803793853_8ff5507aca_b.jpg"/>
+</div>
+
+# Hi there 👋🏽
+
+
 
 <!--
 **smussie/smussie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
